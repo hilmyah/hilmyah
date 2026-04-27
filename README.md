@@ -25,9 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=hilmyah&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=hilmyah&theme=dark&card_width=450&ring=4B8EDA&fire=EB8F37&currStreakLabel=EB8F37&background=EB545400)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmyah&theme=github_dark&card_width=450&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmyah&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
-</div>
 
 <br/>
 
