@@ -1,5 +1,8 @@
 <h1 align="center"><b>Hi, I'm Hilmy Adhyandra Hamzah </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hilmyah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Grid+Double&color=647baf&size=28&center=true&vCenter=true&width=900&height=100&lines=Vocational+Student+in+SIJA;Linux+%26+Server+Management+Enthusiast;Focusing+on+Cloud+Computing,+DevOps,+%26+Security" />
 </p>
 
