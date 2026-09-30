@@ -7,7 +7,7 @@
 </p>
 
 ## About Me:
-Vocational student specializing in **Sistem Informasi, Jaringan dan Aplikasi (SIJA)**, Currently focusing on **Linux Systems, Server Management, Cloud Infrastructure, and Security**.
+Vocational student specializing in **Sistem Informasi, Jaringan dan Aplikasi (SIJA)**, Currently focusing on **Linux Systems, Server Management, Cloud Infrastructure, Newtworking, and Security**.
 Reach me on my socials below!  
 
 ## Socials:
