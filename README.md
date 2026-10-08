@@ -15,7 +15,7 @@ Reach me on my socials below!
   <a href="https://www.linkedin.com/in/hilmyadhyandrahamzah" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
   <a href="https://www.instagram.com/hilmyahz" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
   <a href="https://www.facebook.com/andra.794636" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
-  <a href="https://t.me/HilmyAH" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" /></a>
+  <a href="https://hilmyah.my.id" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=https%3A%2F%2Fhilmyah.my.id%2Ficons%2Flogo-temp.png&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" /></a>
   <a href="https://discord.com/users/1128732369076105247" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>
 </div>
 
